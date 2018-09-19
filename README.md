@@ -16,7 +16,7 @@ This is a "clone" or re-do of the classic arcade game Frogger.
 
 ## How to Play:
 The goal is to cross the "road", avoid the enemy and jump into the water.
-Click in the following link to play:
+Click in the following link to play: https://rsbeaver.github.io/arcadeGame/
 
 1. Using the arrow keys on your keyboard, move upwards.
 

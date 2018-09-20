@@ -13,9 +13,15 @@
   3. Play the game
 
 
+<<<<<<< HEAD
 ## How to Play
   The goal is to cross the "road", avoid the enemy and jump into the water.
   Click in the following link to play:
+=======
+## How to Play:
+The goal is to cross the "road", avoid the enemy and jump into the water.
+Click in the following link to play: https://rsbeaver.github.io/arcadeGame/
+>>>>>>> 88816e78f30919df6de8ed94356db704ae2f062d
 
   1. Using the arrow keys on your keyboard, move upwards.
 
@@ -29,7 +35,12 @@
 ## Tools Used and Reference material
 
 * Getting started Udacity exercise:
+<<<<<<< HEAD
     <https://github.com/udacity/frontend-nanodegree-arcade-game>
 
 * Collision recognition function:
     <https://stackoverflow.com/questions/2440377/javascript-collision-detection>
+=======
+  * https://github.com/udacity/frontend-nanodegree-arcade-game
+  * Collision function: https://stackoverflow.com/questions/2440377/javascript-collision-detection
+>>>>>>> 88816e78f30919df6de8ed94356db704ae2f062d

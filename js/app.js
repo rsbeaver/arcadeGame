@@ -6,7 +6,7 @@ var Enemy = function(x, y, speed) {
 
     // The image/sprite for enemy "bugs"
     this.sprite = 'images/enemy-bug.png';
-
+};
 
 // Update the enemy's position, required method for game
 // Parameter: dt, a time delta between ticks
